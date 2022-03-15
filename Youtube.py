@@ -8,7 +8,13 @@
 # print("Rose are" + color)
 # print(plural_noun + "are blue")
 # print("I love" + celebrity)
-lucky_numbers = [4,8,15,16,23,42]
-friends = ["Kevin", "Keran", "Jim", "Oscar", "Tom"]
-friends2 = friends.copy()
-print(friends2)
+# lucky_numbers = [4,8,15,16,23,42]
+# friends = ["Kevin", "Keran", "Jim", "Oscar", "Tom"]
+# friends2 = friends.copy()
+# print(friends2)
+def say_hi(a):
+    name = a
+    print("hello"+a)
+    return a
+say_hi("mike")
+
