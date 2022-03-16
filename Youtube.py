@@ -12,9 +12,26 @@
 # friends = ["Kevin", "Keran", "Jim", "Oscar", "Tom"]
 # friends2 = friends.copy()
 # print(friends2)
-def say_hi(a):
-    name = a
-    print("hello"+a)
-    return a
-say_hi("mike")
+# def say_hi(a, age):
+#     name = a
+#     print("hello "+a + ", your are " + str(age))
+#     return a
+# say_hi("mike", 35)
+# is_male = True
+# is_tall = False
+# if is_male and is_tall:
+#     print("you are a tall male")
+# elif is_male and not(is_tall):
+#     print("you are a short male")
+# else:
+#     print("you are neither male or tall")
+# def max(a,b,c):
+#     if a>=b and a>=c:
+#         return a
+#     elif a <=b and a >=c:
+#         return b
+#     else:
+#         return c
+# print(max(3,4,5))
+
 
